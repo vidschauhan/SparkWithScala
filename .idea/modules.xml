@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/SparkWithScala.iml" filepath="$PROJECT_DIR$/.idea/modules/SparkWithScala.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sparkwithscala-build.iml" filepath="$PROJECT_DIR$/.idea/modules/sparkwithscala-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SparkWithScala-build.iml" filepath="$PROJECT_DIR$/.idea/modules/SparkWithScala-build.iml" />
     </modules>
   </component>
 </project>
